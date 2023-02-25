@@ -76,7 +76,7 @@ local games = {
     [{155615604}] = "https://raw.githubusercontent.com/comet3456998765/All-games-new-/main/ForGamedetector",
     [{13822889}] = "https://raw.githubusercontent.com/comet3456998765/Scripts/main/LT2SCRIPT.lua",
     [{6516141723}] = "https://raw.githubusercontent.com/comet3456998765/Games/main/(Doors%20script).lua",
-    [{6447798030}] = "https://raw.githubusercontent.com/comet3456998765/Games/main/(FunkyFryday).lua"
+    [{6447798030}] = "https://raw.githubusercontent.com/comet3456998765/Games/main/(FunkyFryday).lua",
 }
  
 for ids, url in next, games do
